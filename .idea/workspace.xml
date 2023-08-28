@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e21d73bb-6f07-4689-9670-e038c9f1f1c6" name="Changes" comment="" />
+    <list default="true" id="e21d73bb-6f07-4689-9670-e038c9f1f1c6" name="Some more solutions till 28th" comment="First geekforgeeks algorithm solutions">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_01_08_2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_03_08_2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_04_08_2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_05_08_2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_06_08_2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_07_08_2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_08_08_2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_09_08_2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_10_08_2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_21_08_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_21_08_2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_22_08_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_22_08_2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_26_08_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_26_08_2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_27_08_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_27_08_2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_28_08_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_28_08_2023.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -25,15 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/chukwuemeka.abadom/Desktop/Udemy/geekforgeeks"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.chuksabadom._2023._08_august" />
       <recent name="com.chuksabadom._2023._09_september" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_11_08_2023">
-    <configuration name="Solution_11_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_11_08_2023" />
+  <component name="RunManager" selected="Application.Solution_01_08_2023">
+    <configuration name="Solution_01_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_01_08_2023" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
@@ -45,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_12_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_12_08_2023" />
+    <configuration name="Solution_03_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_03_08_2023" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_13_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_13_08_2023" />
+    <configuration name="Solution_26_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_26_08_2023" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_14_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_14_08_2023" />
+    <configuration name="Solution_27_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_27_08_2023" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_15_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_15_08_2023" />
+    <configuration name="Solution_29_08_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._08_august.Solution_29_08_2023" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
@@ -99,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution_11_08_2023" />
-        <item itemvalue="Application.Solution_12_08_2023" />
-        <item itemvalue="Application.Solution_13_08_2023" />
-        <item itemvalue="Application.Solution_14_08_2023" />
-        <item itemvalue="Application.Solution_15_08_2023" />
+        <item itemvalue="Application.Solution_01_08_2023" />
+        <item itemvalue="Application.Solution_26_08_2023" />
+        <item itemvalue="Application.Solution_27_08_2023" />
+        <item itemvalue="Application.Solution_29_08_2023" />
+        <item itemvalue="Application.Solution_03_08_2023" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +144,31 @@
       <option name="presentableId" value="Default" />
       <updated>1692269900827</updated>
     </task>
+    <task id="LOCAL-00001" summary="First geekforgeeks algorithm solutions">
+      <option name="closed" value="true" />
+      <created>1692954922059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692954922059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First geekforgeeks algorithm solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="First geekforgeeks algorithm solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

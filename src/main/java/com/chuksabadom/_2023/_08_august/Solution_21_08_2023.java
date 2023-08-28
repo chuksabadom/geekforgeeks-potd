@@ -1,6 +1,4 @@
 package com.chuksabadom._2023._08_august;
-import java.util.ArrayList;
-import java.util.List;
 
 class Solution_21_08_2023 {
     public int count(int[][] matrix) {

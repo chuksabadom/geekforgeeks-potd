@@ -1,7 +1,4 @@
 package com.chuksabadom._2023._08_august;
-
-import java.util.ArrayList;
-
 public class Solution_22_08_2023 {
     public static int findMinOperation(int N, int[][] matrix) {
         // code here
