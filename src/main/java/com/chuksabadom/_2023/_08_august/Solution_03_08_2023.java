@@ -41,8 +41,8 @@ class Solution_03_08_2023 {
             return distance;
         }
     public static void main(String[] args) {
-        int N = 4;
-        int M = 5;
+        int N = 6;
+        int M = 7;
         int[][] edges = {{0,1,2},{0,4,1},{4,5,4},{4,2,2},{1,2,3},{2,3,6},{5,3,1}};
         int[] result = new Solution_03_08_2023().shortestPath(N, M, edges);
         System.out.println(Arrays.toString(result));
