@@ -30,17 +30,17 @@ public class Solution_30_08_2023 {
 
         return current;
     }
+    // Linklist node structure
+    static class Node {
+        int data;
+        Node next;
+
+        Node(int d)
+        {
+            data = d;
+            next = null;
+        }
+    }
 }
 
 
-// Linklist node structure
-class Node {
-	int data;
-	Node next;
-
-	Node(int d)
-	{
-		data = d;
-		next = null;
-	}
-}
