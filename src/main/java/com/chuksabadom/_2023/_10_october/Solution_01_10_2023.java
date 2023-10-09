@@ -32,6 +32,7 @@ public class Solution_01_10_2023 {
             {13, 14, 15,16}};
 
         ArrayList<Integer> result = boundaryTraversal(matrix, n, m);
+        //result.forEach(res -> System.out.print(res + " "));
         for(int ans : result) {
             System.out.print(ans + " ");
         }
