@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e21d73bb-6f07-4689-9670-e038c9f1f1c6" name="Some more solutions till 28th" comment="Solution_22_09_2023">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_09_september/Solution_23_09_2023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_09_september/Solution_24_09_2023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_09_september/Solution_25_09_2023.java" afterDir="false" />
+    <list default="true" id="e21d73bb-6f07-4689-9670-e038c9f1f1c6" name="Some more solutions till 28th" comment="Solution_11_10_2023">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/Easy/CheckForBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/Easy/EquilibriumPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/Easy/FindDuplicatesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/Easy/LeadersInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/Easy/MissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/Easy/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/Easy/ParenthesisChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chuksabadom/Easy/Print2LargestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +53,13 @@
       <recent name="com.chuksabadom._2023._08_august" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_23_09_2023">
-    <configuration name="Solution_22_09_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._09_september.Solution_22_09_2023" />
+  <component name="RunManager" selected="Application.Print2LargestNumber">
+    <configuration name="EquilibriumPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom.Easy.EquilibriumPoint" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chuksabadom._2023._09_september.*" />
+          <option name="PATTERN" value="com.chuksabadom.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_23_09_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._09_september.Solution_23_09_2023" />
+    <configuration name="FindDuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom.Easy.FindDuplicatesInArray" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chuksabadom._2023._09_september.*" />
+          <option name="PATTERN" value="com.chuksabadom.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_24_09_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._09_september.Solution_24_09_2023" />
+    <configuration name="LeadersInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom.Easy.LeadersInAnArray" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chuksabadom._2023._09_september.*" />
+          <option name="PATTERN" value="com.chuksabadom.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_25_09_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._09_september.Solution_25_09_2023" />
+    <configuration name="ParenthesisChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom.Easy.ParenthesisChecker" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chuksabadom._2023._09_september.*" />
+          <option name="PATTERN" value="com.chuksabadom.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_25_09_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chuksabadom._2023._09_september.Solution_25_09_2023" />
+    <configuration name="Print2LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chuksabadom.Easy.Print2LargestNumber" />
       <module name="geekforgeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chuksabadom._2023._09_september.*" />
+          <option name="PATTERN" value="com.chuksabadom.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution_23_09_2023" />
-        <item itemvalue="Application.Solution_24_09_2023" />
-        <item itemvalue="Application.Solution_25_09_2023" />
-        <item itemvalue="Application.Solution_25_09_2023_1" />
-        <item itemvalue="Application.Solution_22_09_2023" />
+        <item itemvalue="Application.Print2LargestNumber" />
+        <item itemvalue="Application.ParenthesisChecker" />
+        <item itemvalue="Application.EquilibriumPoint" />
+        <item itemvalue="Application.LeadersInAnArray" />
+        <item itemvalue="Application.FindDuplicatesInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +306,103 @@
       <option name="project" value="LOCAL" />
       <updated>1695368505631</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Solution_23_09_2023 to 25th">
+      <option name="closed" value="true" />
+      <created>1695633525657</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1695633525657</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Solution_26_09_2023">
+      <option name="closed" value="true" />
+      <created>1695719513646</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1695719513646</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Solution_27_09_2023">
+      <option name="closed" value="true" />
+      <created>1695809336068</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1695809336068</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Solution_29_09_2023">
+      <option name="closed" value="true" />
+      <created>1695977014689</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1695977014689</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Solution_30_09_2023 to 1_10_2023">
+      <option name="closed" value="true" />
+      <created>1696241909576</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1696241909576</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Solution_03_10_2023">
+      <option name="closed" value="true" />
+      <created>1696321753326</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1696321753326</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Solution_04_10_2023">
+      <option name="closed" value="true" />
+      <created>1696409838352</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1696409838352</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Solution_05_10_2023">
+      <option name="closed" value="true" />
+      <created>1696493817654</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1696493817654</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Solution_06_10_2023">
+      <option name="closed" value="true" />
+      <created>1696580803615</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1696580803615</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Solution_07_10_2023 to 9th">
+      <option name="closed" value="true" />
+      <created>1696845042766</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1696845042766</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Solution_10_10_2023">
+      <option name="closed" value="true" />
+      <created>1696928181293</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1696928181293</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Solution_11_10_2023">
+      <option name="closed" value="true" />
+      <created>1697012770999</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1697012770999</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,12 +417,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First geekforgeeks algorithm solutions" />
-    <MESSAGE value="Answer for 29th" />
-    <MESSAGE value="Fix Solution_03_08_2023 input" />
-    <MESSAGE value="Solution_30_08_2023" />
-    <MESSAGE value="Solution_01_09_2023" />
-    <MESSAGE value="Solution from 2nd till Solution_04_09_2023" />
     <MESSAGE value="Solution_06_09_2023" />
     <MESSAGE value="Solution_07_09_2023 - two solutions" />
     <MESSAGE value="Solution_08_09_2023" />
@@ -335,7 +430,19 @@
     <MESSAGE value="Solution_20_09_2023" />
     <MESSAGE value="Solution_21_09_2023" />
     <MESSAGE value="Solution_22_09_2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution_22_09_2023" />
+    <MESSAGE value="Solution_23_09_2023 to 25th" />
+    <MESSAGE value="Solution_26_09_2023" />
+    <MESSAGE value="Solution_27_09_2023" />
+    <MESSAGE value="Solution_29_09_2023" />
+    <MESSAGE value="Solution_30_09_2023 to 1_10_2023" />
+    <MESSAGE value="Solution_03_10_2023" />
+    <MESSAGE value="Solution_04_10_2023" />
+    <MESSAGE value="Solution_05_10_2023" />
+    <MESSAGE value="Solution_06_10_2023" />
+    <MESSAGE value="Solution_07_10_2023 to 9th" />
+    <MESSAGE value="Solution_10_10_2023" />
+    <MESSAGE value="Solution_11_10_2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution_11_10_2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -374,6 +481,31 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_09_september/Solution_20_09_2023.java</url>
           <line>8</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_10_october/Solution_03_10_2023.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_10_october/Solution_04_10_2023.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_10_october/Solution_05_10_2023.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_10_october/Solution_05_10_2023.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chuksabadom/Easy/EquilibriumPoint.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/chuksabadom/_2023/_08_august/Solution_19_08_2023.java</url>
